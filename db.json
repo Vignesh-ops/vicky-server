@@ -1,0 +1,7 @@
+{
+    "posts": [
+      { "id": 1, "title": "Hello VJ", "body": "Welcome to JSON Server!" },
+      { "id": 2, "title": "Another Post", "body": "More content here." }
+    ]
+  }
+  
